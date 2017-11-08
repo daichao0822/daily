@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="daily"
+  id="myeclipse.1343901758437"
+  context-root="/daily"
+  j2ee-spec="5.0"
+  archive="daily.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
